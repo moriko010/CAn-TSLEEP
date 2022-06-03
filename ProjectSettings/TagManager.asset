@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - xtag
+  - ytag
+  - ztag
+  - Yuka
+  - check
+  - push
+  - cabinet
+  - book
+  - fridge
+  - bed
+  - atari
+  - nazo1
+  - calendar
+  - ball
+  - fridge2
+  - nazoC-o
+  - plant
+  - rack
+  - nazoLast
+  - nazoB
+  - nazo2
+  - nazoB2
+  - door2
+  - door3
+  - door4
+  - door5
+  - nazoD'
+  - nazoD
+  - basket
+  - nazoDans
+  - rack2
+  - clear
+  - nazoLastBox
+  - ball1
+  - ball2
+  - ball3
+  - ball4
+  - nazolastcol
+  - nazo3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 'Environment '
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
